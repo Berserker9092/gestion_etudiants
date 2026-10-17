@@ -57,7 +57,3 @@ npm run build               # production → dist/
 ## Personnalisation
 
 Le nom de la plateforme, le slogan et le lien GitHub se modifient dans `src/config.js`.
-
-## Captures d'écran
-
-Ajoute tes captures dans `docs/` puis référence-les ici (accueil, fiche étudiant, analyses).
