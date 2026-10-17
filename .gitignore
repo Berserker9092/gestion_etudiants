@@ -1,0 +1,17 @@
+# Dépendances et builds
+node_modules
+dist
+
+# Secrets et configuration locale
+.env
+.env.local
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Logs
+*.log
+backend/logs/
